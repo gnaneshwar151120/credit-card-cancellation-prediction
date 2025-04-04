@@ -99,6 +99,7 @@ This project aims to answer the following:
 credit-card-cancellation-prediction/
 ├── scripts/                # R scripts for EDA & modeling
 │   └── analysis.R
+├── data
 ├── visualizations/         # ROC curves, EDA plots
 ├── README.md               # Project overview
        # R package dependencies
